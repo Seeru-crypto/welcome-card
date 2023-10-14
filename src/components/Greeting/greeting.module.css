@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    gap: 1rem;
+    max-width: 25vw;
+    margin: 2rem 0;
+    border: 2px solid aliceblue;
+    border-radius: .5rem;
+    padding: 2rem;
+    color: black;
+    background-color: wheat;
+    opacity: 66%;
+}
